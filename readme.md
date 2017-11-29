@@ -34,7 +34,7 @@ Cryptocurrency CLI lets you monitor cryptocurrencies in your portfolio and track
 1. Git Clone the repo
 
     ```
-    git clone https://github.com/christ0ph3r/cryptocurrency-cli/
+    git clone https://github.com/jvli0/cryptocurrency-cli/
     ```
 
 1. Enter the repository
@@ -59,13 +59,3 @@ Cryptocurrency CLI lets you monitor cryptocurrencies in your portfolio and track
       "dogecoin": "10000"
     }
     ```
-
-## Like my work? Donate some coin!
-
-
-| Coin     | Address                                    |
-| -------- |:------------------------------------------:|
-| Bitcoin  | 1LFTccjYHbiVekdm8XYC1ucNqdGsAC3frc         |
-| Ethereum | 0x071Fe2Bb50430A3f6af398A410a78B67e1A783AE |
-| Litecoin | Lh9eV96yhTyrkv2VkWG7RZvas9TzFuYZbR         |
-
